@@ -77,3 +77,21 @@ class MainApplication : Application() {
 
 ---
 
+## 3. Capturas de Pantalla
+
+**1. Lista vacía — pestaña General**
+
+<img src="docs/images/01-main-list-empty.png" alt="lista vacía en la pestaña general" width="300" />
+
+**2. Ítems con checks marcados**
+
+<img src="docs/images/02-items-checked.png" alt="ítems con checks marcados" width="300" />
+
+**3. Tabla `items` en el Database Inspector**
+
+<img src="docs/images/03-database-inspector.png" alt="tabla items en el database inspector" width="700" />
+
+**4. Estructura de paquetes**
+
+<img src="docs/images/04-package-structure.png" alt="estructura de paquetes" />
+
